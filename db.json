@@ -1,0 +1,36 @@
+{
+  "areas": [
+      {
+          "id": 1,
+          "name": "producción"
+      },
+      {
+          "id": 2,
+          "name": "finanzas"
+      },
+      {
+          "id": 3,
+          "name": "contabilidad"
+      }
+  ],
+  "types": [
+      {
+          "id": 1,
+          "name": "automóvil"
+      },
+      {
+          "id": 2,
+          "name": "moto"
+      }
+  ],
+  "employees": [
+      {
+          "id": 1,
+          "name": "Roberto Escalante Arias",
+          "areasId": 1,
+          "typesId": 1,
+          "color": "rojo",
+          "placa": "uht2312"
+      }
+  ]
+}
